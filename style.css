@@ -1,0 +1,76 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+.container{
+    min-height: 100vh;
+    width: 100vw;
+    padding: 23px;
+    background-color: #000000e3;
+    color: white;
+}
+
+h1{
+    font-size: 35px;
+}
+h2{
+    font-size: 30px;
+    color: blue;
+}
+p{
+    font-size: 25px;
+}
+
+.profileCheckout{
+    background-color: transparent;
+    color: transparent;
+}
+
+#userName, #showDetails{
+    width: 106px;
+    height: 34px;
+}
+
+.main{
+    margin-top: 20%;
+    text-align: center;
+}
+img{
+    border-radius: 50%;
+    border: 6px solid blue;
+    width: 191px;
+    height: 200px;
+}
+#profileInfo{
+    text-align: center;
+} 
+
+.card-text{
+    display: flex;
+    justify-content: center;
+    flex-wrap: wrap;
+}
+.profileTextItem{
+    margin-left: 20px;
+}
+#reposInfo{
+    display: flex;
+    padding: 23px;
+    flex-wrap: wrap;
+}
+.card-item{
+    margin-top: 23px;
+}
+.main-item{
+    margin-top: 23px;
+}
+.card-repo{
+    
+    width: 300px;
+    color: #a1a0a0;
+    margin: 12px;
+    padding: 12px;
+    border: 1px solid black;
+    background: transparent;
+}
