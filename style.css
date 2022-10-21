@@ -20,7 +20,7 @@ h2{
     color: blue;
 }
 p{
-    font-size: 25px;
+    font-size: 28px;
 }
 
 .profileCheckout{
@@ -72,6 +72,6 @@ img{
     color: #a1a0a0;
     margin: 12px;
     padding: 12px;
-    border: 1px solid black;
+    border: 1.5px solid black;
     background: transparent;
 }
